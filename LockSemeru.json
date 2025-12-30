@@ -99,6 +99,6 @@
     "id": "30cab82d5bbf2d5a",
     "key": "user16",
     "expiresAt": "2026-01-01",
-    "allowOffline": "true"
+    "allowOffline": true
   }
 ]
