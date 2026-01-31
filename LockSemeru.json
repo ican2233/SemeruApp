@@ -106,5 +106,11 @@
     "key": "user17",
     "expiresAt": "2026-02-02",
     "allowOffline": true
+  },
+  {
+    "id": "836ec64ef4496fc2",
+    "key": "user18",
+    "expiresAt": "2026-03-01",
+    "allowOffline": true
   }
 ]
